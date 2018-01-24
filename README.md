@@ -1,1 +1,1 @@
-# offlinr-weather-app
+# offline-weather-app
